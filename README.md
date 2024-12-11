@@ -6,7 +6,7 @@ This project is for Homework 3 of Game Development at Trinity University. The as
 
 ## Additional Changes
 
-For my project, I found a really cool asset pack on itch.io. I was inspired by this asset pack to add a storyline to my game. In my version of Sokoban, you are trapped within a temple statue. You must push the boxes from one end of the path to another, but beware! There are graves along your path. If you venture too close to the resting place of these lost souls, they will return to the world of the living. If you cross paths with these lost souls, all your work will be undone and you will be reborn into the same level that you are on. 
+For my project, I found a really cool asset pack on itch.io. I was inspired by this asset pack to add a storyline to my game. In my version of Sokoban, you are trapped within a temple statue. You must push the boxes from one end of the path to another, but beware! There are graves along your path. If you venture too close to the resting place of these lost souls, they will return to the world of the living. If you cross paths with these lost souls, all your work will be undone and you will be reborn into the same level that you are on. Once you get all the boxes to the end of the path, go to the teleportation portal to escape....before it's too late....
 
 ## Further Development
 
